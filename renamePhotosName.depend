@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666982966 source:d:\_programming\codeblocks\renamephotosname\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<dirent.h>
+
